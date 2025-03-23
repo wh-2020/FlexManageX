@@ -86,11 +86,11 @@ pip install -r requirements.txt
 python run.py
 ```
 
-应用将在 http://localhost:8085 运行。
+应用将在 http://localhost:8089 运行。
 
 ## API文档
 
-启动应用后，访问 http://localhost:8085/docs 查看API文档。
+启动应用后，访问 http://localhost:8089/docs 查看API文档。
 
 ## 许可证
 
