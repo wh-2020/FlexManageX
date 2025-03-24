@@ -35,7 +35,7 @@ class ChineseJSONResponse(JSONResponse):
 
 # 创建FastAPI应用
 app = FastAPI(
-    title="木头管理系统 API",
+    title="FlexManageX API",
     description="后端API接口",
     version="0.0.1",
     default_response_class=ChineseJSONResponse,  # 使用自定义的响应类
